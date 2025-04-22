@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello 🦋
+
+👩🏻‍💻 Bioinformatics and Computational Biology 
+
+
 
 <!--
 **amenytouihri/amenytouihri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
